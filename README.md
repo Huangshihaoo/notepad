@@ -1,4 +1,4 @@
-# test001
+# notepad
 
 An Electron application with Vue and TypeScript
 
@@ -11,13 +11,16 @@ An Electron application with Vue and TypeScript
 ### Install
 
 ```bash
+#
 $ npm install
 ```
 
 ### Development
 
 ```bash
+#
 $ npm run dev
+
 ```
 
 ### Build
